@@ -13,30 +13,38 @@ Player - описывает игрока, хранит в себе имя, по�
 
 3. Создаеём класс SQLHandler, который будет отвечать за работу с базой данных. Так же создаем две таблицы в базе данных - для команд и игроков.
 ![image](https://user-images.githubusercontent.com/104633083/211038917-013cb6da-60ef-4a6f-8def-2e23ba2c55de.png)
+<br /><br /><br />
 
 4. Читаем данные из csv файла и заполняем ими таблицы в базе данных с помощью метода insertTeam.
 ![image](https://user-images.githubusercontent.com/104633083/211039711-c62ef7fa-ae58-49be-affc-a63735d5d378.png)
 ![image](https://user-images.githubusercontent.com/104633083/211040305-618ed5ed-3423-45ea-a994-fc166c8722d4.png)
+<br /><br /><br />
 
 5. Создадим в классе SQLHandler метод getAllData, который будет возвращать все аднные из базы данных и с его помощью выведем эти данные в консоль.
 ![image](https://user-images.githubusercontent.com/104633083/211040804-77526564-571d-40cd-a107-0f57f2f64364.png)
-![image](https://user-images.githubusercontent.com/104633083/211040861-3ce2dfe5-b8a5-4aa5-b503-3d48c6861798.png)
-![image](https://user-images.githubusercontent.com/104633083/211041024-ca6f4289-d768-46da-8c71-0da06ee53ec0.png)
+![image](https://user-images.githubusercontent.com/104633083/211040861-3ce2dfe5-b8a5-4aa5-b503-3d48c6861798.png)<br />
+![image](https://user-images.githubusercontent.com/104633083/211041024-ca6f4289-d768-46da-8c71-0da06ee53ec0.png)<br />
+<br /><br /><br />
 
 8. Реализуем логику построения графика среднего возраста команд для первого задания.
 ![image](https://user-images.githubusercontent.com/104633083/211041595-b9a2ddcb-d0ca-4e74-a5df-e34188bf4362.png)
+<br /><br /><br />
 
 7. Итоговый график.
 ![image](https://user-images.githubusercontent.com/104633083/211041286-d8863b71-fe4e-43d8-a0f6-c3ec3cc51cc2.png)
+<br /><br /><br />
 
 8. Реализуем логику для второго задания.
 ![image](https://user-images.githubusercontent.com/104633083/211041933-ddfda7df-f648-4af6-8965-e66636bc3b12.png)
+<br /><br /><br />
 
 9. Реализуем логику для третьего задания
 ![image](https://user-images.githubusercontent.com/104633083/211042063-e717e776-dc46-4537-a5cf-908cddae7096.png)
+<br /><br /><br />
 
 10. Результат выполнения заданий:
 ![image](https://user-images.githubusercontent.com/104633083/211042205-cfc937ee-54d2-4b15-a15c-486064ce4af7.png)
+<br /><br /><br />
 
 
 
